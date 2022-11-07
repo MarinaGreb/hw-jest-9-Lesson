@@ -1,0 +1,25 @@
+{
+  "name": "hw-jest-9-lesson",
+  "version": "1.0.0",
+  "description": "Here is homework after 9th lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaGreb/hw-jest-9-Lesson.git"
+  },
+  "author": "Marina <sokovets@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaGreb/hw-jest-9-Lesson/issues"
+  },
+  "homepage": "https://github.com/MarinaGreb/hw-jest-9-Lesson#readme",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  },
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
