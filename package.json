@@ -4,7 +4,7 @@
   "description": "Here is homework after 9th lesson",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
