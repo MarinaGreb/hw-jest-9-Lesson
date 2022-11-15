@@ -13,7 +13,7 @@ const calculateBonus = (a, b) => {
 // //иначе debugger не срабатывает т.к. расположен в функции
 // calculateBonus(45, 7)
 
-console.log(calculateBonus(-10, 7));
-console.log(calculateBonus(45, 7));
+// console.log(calculateBonus(-10, 7));
+// console.log(calculateBonus(45, 7));
 
 module.exports = calculateBonus;
